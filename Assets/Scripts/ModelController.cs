@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class ModelController : MonoBehaviour{
 
-    [SerializeField] private GameObject[] models;
-
     [SerializeField] private GameObject canvas;
 
     void Awake(){

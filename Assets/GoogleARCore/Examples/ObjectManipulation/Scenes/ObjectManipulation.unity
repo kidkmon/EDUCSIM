@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FirstPersonCamera: {fileID: 646831371}
-  AndyPrefab: {fileID: 3583688085184737419, guid: 095e0cf4b9339634fb1cc91882a0b1f7,
+  AndyPrefab: {fileID: 6647419916225295705, guid: 1373d162693bef14db5c932c8aa72bf2,
     type: 3}
   ManipulatorPrefab: {fileID: 1122865395318488, guid: 24556cd4924884d9aaa3d80135c8021d,
     type: 3}
