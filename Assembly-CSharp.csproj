@@ -248,6 +248,8 @@
      <Compile Include="Assets\GoogleARCore\SDK\Scripts\XPTrackingState.cs" />
      <Compile Include="Assets\Scripts\KarenCanvas.cs" />
      <Compile Include="Assets\Scripts\KarenModelController.cs" />
+     <Compile Include="Assets\Scripts\LauraCanvas.cs" />
+     <Compile Include="Assets\Scripts\LauraController.cs" />
      <Compile Include="Assets\Scripts\ModelController.cs" />
      <Compile Include="Assets\Scripts\RafaelaCanvas.cs" />
      <Compile Include="Assets\Scripts\RafaelaController.cs" />
